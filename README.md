@@ -18,7 +18,9 @@
  9. prockordat pārraksta "Slope" kolonnas vērtību, ierakstot šūnās formulas 1-1/k rezultātu, kur k ir "Slope" sākotnējā vērtība;
  10. izdrukā prockordat datnē results.txt;
  11. uzzīmē izkliedes grafiku kur uz horizontālās ass ir kolonnas "MAD" vērtībus, bet uz vertikālās – kolonnas "Average" vērtības;
- 12. uzzīmē vienā attēlā sagrupētu kastu grafiku no "Intercept" kolonnas datiem, grupējot pēc f faktora vērtībām un variējot pēc tām arī kastes izskatu.
+     Grafiks ir jāsaglabā datnē scatter.svg .
+ 13. uzzīmē vienā attēlā sagrupētu kastu grafiku no "Intercept" kolonnas datiem, grupējot pēc f faktora vērtībām un variējot pēc tām arī kastes izskatu.
+     Grafiks ir jāsaglabā datnē boxplot.svg .
  
  Programmai ir jāatbilst vairākiem kritērijiem:
  * ielasot datni, ir jāattīra dati no nejaušām atstarpēm, kas liedz korekti pārveidot kolonnas par faktoriem (ielasīšanas funkcijai ir attiecīgais arguments);
