@@ -26,10 +26,7 @@
  
  Papilduzdevums: atrast, kurš faktora līmenis (skat. 4. punktu uzdevumos) kordat rindu nosakumos ir sastopams visbiežāk, un izvadīt uz ekrāna tikai tās prockordat rindiņas, kuru nosaukumi satur šo līmeni.
  
- 
- Ievērojiet, ka šis uzdevuma nosacījums ir nedaudz koriģēts salīdzinājumā ar ORTUS pagājušā gada versiju!
- 
- Programmas sagatavē nedrīkst neko mainīt, izņemot komentāru vietā jāieraksta savs kods (arī /* */ komentāru vietā) vai vienkārši jāizdžēs šie komentāri.
+ Programma ir jāieraksta failā programma.R .
 
  Beigās saglabājiet iesniedziet Jūsu mainīto failu ar commit (aprakstā norādiet, kas tika izdarīts) un iesniedziet to ORTUS.
  
